@@ -1,1 +1,9 @@
+1. Zhenkun Yang, Chuanhui Yang, Fusheng Han, Mingqiang Zhuang, Bing Yang, Zhifeng Yang, Xiaojun Cheng, Yuzhong Zhao, Wenhui Shi, Huafeng Xi, Huang Yu, Bin Liu, Yi Pan, Boxue Yin, Junquan Chen, and Quanqing Xu. 2022. OceanBase: A 707 Million tpmC Distributed Relational Database System. PVLDB, 15(12): 3385 - 3397, 2022. https://vldb.org/pvldb/vol15/p3385-xu.pdf
+2. Zhifeng Yang, Quanqing Xu, Shanyan Gao, Chuanhui Yang, Guoping Wang, Yuzhong Zhao, Fanyu Kong, Hao Liu, Wanhong Wang, Jinliang Xiao. OceanBase Paetica: A Hybrid Shared-nothing/Shared-everything Database for Supporting Single Machine and Distributed Cluster. PVLDB,16(12): 3728 - 3740, 2023. https://www.vldb.org/pvldb/vol16/p3728-xu.pdf
+3. Quanqing Xu, Chuanhui Yang, Aoying Zhou. Native Distributed Databases: Problems, Challenges and Opportunities. VLDB 2024, pp. 4217 - 4220. https://www.vldb.org/pvldb/vol17/p4217-xu.pdf
+4. Fusheng Han, Hao Liu, Bin Chen, Debin Jia, Jianfeng Zhou, Xuwang Teng, Chuanhui Yang, Huafeng Xi, Wei Tian, Shuning Tao, Sen Wang, Quanqing Xu, Zhenkun Yang. PALF: Replicated Write-ahead Logging for Distributed Databases. VLDB 2024, pp. 3745 - 3758. https://www.vldb.org/pvldb/vol17/p3745-xu.pdf
+5. Quanqing Xu, Wei Sun, Chuanhui Yang, Jinlong Liu, Ziyun Wei, Fusheng Han, Liang Wang, Xiaowei Zhai. OceanBase Unitization: Building the Next Generation of Online Map Applications. In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 4183-4196, doi: 10.1109/ICDE65448.2025.00312. (Best Industry and Application Paper Runner Up) 
+6. 1.	Jiamin Hou, Zhanhao Zhao, Wei Lu, Shiming Yang, Shuang Liu, Quanqing Xu, Chuanhui Yang, Xiaoyong Du. An Efficient and Scalable Graph Database with Built-in Temporal Support. The VLDB Journal 34 (4), 1-25.
+6. 阳振坤, 杨传辉, 韩富晟, 王国平, 杨志丰, 成肖君. OceanBase分布式关系数据库架构与技术. 计算机研究与发展. 61（3）：540−554，2024.
+7. 马旭阳, 周小凯, 郑浩宇, 崔斌, 徐泉清, 杨传辉, 晏潇, 江佳伟. 基于无服务器计算的多方数据库安全计算系统. 软件学报. https://www.jos.org.cn/jos/article/pdf/7283
 
