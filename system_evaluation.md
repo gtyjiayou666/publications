@@ -1,0 +1,4 @@
+1.	Huidong Zhang, Luyi Qu, Qingshuai Wang, Rong Zhang, Peng Cai, Quanqing Xu, Zhifeng Yang, Chuanhui Yang. Dike: A Benchmark Suite for Distributed Transactional Databases. SIGMOD 2023: 95-98.
+2.	Luyi Qu, Qingshuai Wang, Ting Chen, Keqiang Li, Rong Zhang, Xuan Zhou, Quanqing Xu, Zhifeng Yang, Chuanhui Yang, Weining Qian, et al. 2022. Are current benchmarks adequate to evaluate distributed transactional databases? BenchCouncil Transactions on Benchmarks, Standards and Evaluations (2022), 100031. 
+3.	Qiang Huang, Xin Wang, Susie Xi Rao, Zhihao Han, Zitao Zhang, Yongjun He, Quanqing Xu, Yang Zhao, Zhigao Zheng, Jiawei Jiang. BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks. 2024 IEEE 40th International Conference on Data Engineering (ICDE), pp. 4044-4057.
+4.	翁思扬, 俞融, 王清帅, 胡梓锐, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP评测基准的数据库性能评测能力分析. 软件学报. https://www.jos.org.cn/jos/article/abstract/7225
