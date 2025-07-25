@@ -1,0 +1,11 @@
+1.	Xuhang Zhu, Xiu Tang, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen. CoLA: Model Collaboration for Log-based Anomaly Detection. Accepted in VLDB 2025. 
+2.	Qingliu Wu, Qingfeng Xiang, Yingxia Shao, Qiyao Luo, Quanqing Xu. DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs. Accepted in VLDB 2025.
+3.	Qingfeng Xiang, Yingxia Shao, Quanqing Xu, Chuanhui Yang: Distributed Database Diagnosis Method for Compound Anomalies. Int. J. Softw. Informatics 15(1): 115-137 (2025). 
+4.	Qinbo Zhang, Xiao Yan, Yanfeng Zhao, Fangcheng Fu, Quanqing Xu, Yukai Ding, Xiaokai Zhou, Chuang Hu, Jiawei Jiang. Model Rake: A Defense Against Stealing Attacks in Split Learning. Accepted in IJCAI 2025.
+5.	Dongdong Xie, Pinghui Wang, Quanqing Xu, Chuanhui Yang, and Rundong Li. 2025. Efficient and AccurateDifferentially Private Cardinality Continual Releases. Proc. ACM Manag. Data 3, 3 (SIGMOD), Article 151(June 2025), 27 pages. https://doi.org/10.1145/3725288.
+6.	Qiyao Luo, Quanqing Xu, Chuanhui Yang. How to Answer Secure and Private SQL Queries? In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 4486-4491, doi: 10.1109/ICDE65448.2025.00337. 
+7.	Shihui Wang, Yulan Yang, Zixin Tan, Zhigao Zheng, Jiawei Jiang, Hao Huang, Quanqing Xu, Chuanhui Yang. GADACE: Graph Anomaly Detection Combining Attribute Contrast and Structure Reconstruction. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE
+8.	Qiyao Luo, Jianzhe Yu, Wei Dong, Quanqing Xu, Chuanhui Yang, and Ke Yi. 2025. RM^2: Answer Counting Queries Efficiently under Shuffle Differential Privacy. Proc. ACM Manag. Data 3, 3 (SIGMOD), Article 210 (June 2025), 24 pages. https://doi.org/10.1145/3725415.
+9.	Wei Dong, Qiyao Luo, Giulia Fanti, Elaine Shi, Ke Yi. Almost Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy. CCS 2024.
+11.	Shengkun Zhu, Quanqing Xu, Jinshan Zeng, Sheng Wang, Yuan Sun, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng. F3KM: Federated, Fair, and Fast k-means. Proceedings of the ACM on Management of Data 1 (4), 1-25 (SIGMOD 2024).
+12.	向清风, 邵蓥侠, 徐泉清, 杨传辉.一种面向复合异常的分布式数据库异常诊断方法. 软件学报. https://www.jos.org.cn/jos/article/pdf/7282
