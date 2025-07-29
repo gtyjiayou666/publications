@@ -1,10 +1,23 @@
 ## Literature
 
-### Data_AI
+### Data+AI
 1. [Shengkun Zhu, Feiteng Nie, Jinshan Zeng, Sheng Wang, Yuan Sun, Yuan Yao, Shangfeng Chen, Quanqing Xu, Chuanhui Yang. FedAPM: Federated Learning via ADMM with Partial Model Personalization. Accepted in KDD 2025.](https://arxiv.org/abs/2506.04672)
-
 2. [Chaofan Li, Jianlyu Chen, Yingxia Shao, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu. IR Studio: A Self-Boosting Framework For Cross-Domain Retrieval. Accepted in ACL 2025.](https://aclanthology.org/2025.acl-long.1071/)
-
 3. [Yuxiang Wang, Xiao Yan, Shiyu Jin, Quanqing Xu, Chuang Hu, Yuanyuan Zhu, Bo Du, Jia Wu, Jiawei Jiang. Exploiting Text Semantics for Few and Zero Shot Node Classification on Text-attributed Graph. Accepted in IJCAI 2025.](https://arxiv.org/abs/2505.08168)
-### SQL_engine
+4. [乔少杰，李洲，韩楠，徐泉清，吴涛，袁冠，吴信东．人工智能赋能关系型数据库优化技术：现状与展望[J/OL]．计算机学报,Vol. 48, No. 7, July 2025.](http://cjc.ict.ac.cn/online/onlinepaper/qsj-202571282733.pdf)
+5. [Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang. RAP: Random Projection is What You Need for Vertical Federated Learning. Accepted in DASFAA 2025.]
+6. [Xiaokai Zhou, Xiao Yan, Fangcheng Fu, Xinyan Li, Hao Huang, Quanqing Xu, Chuanhui Yang, Bo Du, Tieyun Qian, Jiawei Jiang. Hounding Data Diversity: Towards Participant Selection in Vertical Federated Learning. In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 2810-2823, doi: 10.1109/ICDE65448.2025.00211.](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c810/26FZBet83L2)
+7. [Yuxuan Liang, Wentao Zhang, Zeang Sheng, Ling Yang, Quanqing Xu, Jiawei Jiang, Yunhai Tong, Bin CUI. Towards Scalable and Deep Graph Neural Networks via Noise Masking. AAAI 2025: 18693-18701.](https://arxiv.org/abs/2412.14602)
+8. [Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Quanqing Xu, Ziyi Li, Chuang Hu, Jiawei Jiang. HaCore: Efficient Coreset Construction with Locality Sensitive Hashing for Vertical Federated Learning. AAAI 2025: 22515-22523.](https://ojs.aaai.org/index.php/AAAI/article/view/34409)
+9. [Yuxiang Wang, Xiao Yan, Shiyu Jin, Hao Huang, Quanqing Xu, Qingchen Zhang, Bo Du, Jiawei Jiang. Self-Supervised Learning for Graph Dataset Condensation. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Pages 3289 - 3298.](https://dl.acm.org/doi/10.1145/3637528.3671682)
+10. [Sijia Li, Peng Cai, Yiqi Shen, Huiqi Hu, Rong Zhang, Xuan Zhou, Quanqing Xu, Chuanhui Yang. SPQO: Learning to Safely Reuse Cached Plans for Dynamic Workloads. DASFAA 2024, LNCS 14850, pp. 315–330, 2024.](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_21)
+11. [Qinbo Zhang, Xiao Yan, Yukai Ding, Quanqing Xu, Chuang Hu, Xiaokai Zhou, Jiawei Jiang. TREECSS: An Efficient Framework for Vertical Federated Learning. DASFAA 2024, LNCS 14850, pp. 425–441, 2024.](https://arxiv.org/abs/2408.01691)
+12. [Xiaokai Zhou, Xiao Yan, Xinyan Li, Hao Huang, Quanqing Xu, Qinbo Zhang,Jerome YEN, Zhaohui Cai, Jiawei Jiang. VFDV-IM: An Efficient and Securely Vertical Federated Data Valuation. DASFAA 2024, LNCS 14850, pp. 409–424, 2024.](https://link.springer.com/chapter/10.1007/978-981-97-5552-3_28)
+13. [Zhongwei Yue, Shujian Peng, Peng Cai, Xuan Zhou, Huiqi Hu, Rong Zhang, Quanqing Xu, Chuanhui Yang. Functionality-Aware Database Tuning via Multi-Task Learning. 2024 IEEE 40th International Conference on Data Engineering (ICDE), 83-95.](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a083/1YOu6HOxMcw)
+14. [Yuxiang Wang, Xiao Yan, Chuang Hu, Quanqing Xu, Chuanhui Yang, Fangcheng Fu, Wentao Zhang, Hao Wang, Bo Du, Jiawei Jiang. Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning. 2024 IEEE 40th International Conference on Data Engineering (ICDE), pp. 3364-3378.](https://arxiv.org/abs/2310.15523)
+15. [Hao Huang, Qian Yan, Keqi Han, Ting Gan, Jiawei Jiang, Quanqing Xu, Chuanhui Yang. Learning Diffusions under Uncertainty. Proceedings of the AAAI Conference on Artificial Intelligence 38 (18), 20430-20437.](https://arxiv.org/abs/2312.07942)
+16. [Jianing Zhang, Zhaojing Luo, Quanqing Xu, Meihui Zhang. PA-FEAT: Fast Feature Selection for Structured Data via Progress-Aware Multi-Task Deep Reinforcement Learning. ICDE 2023: 394-407.](https://ieeexplore.ieee.org/document/10184534/)
+17. [Chaoyu Chen, Hang Yu, Zhichao Lei, Jianguo Li, Shaokang Ren, Tingkai Zhang, Silin Hu, Jianchao Wang, Wenhui Shi. BALANCE: Bayesian Linear Attribution for Root Cause Localization. Proc. ACM Manag. Data1(1): 95:1-95:26 (2023).](https://dl.acm.org/doi/10.1145/3588949)
+18. [Rui Fu, Yuncheng Wu, Quanqing Xu, Meihui Zhang. FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. Proc. ACM Manag. Data1(1): 107:1-107:28 (2023).](https://zmeihui.github.io/files/sigmod23_feast.pdf)
+### SQL engine
 1. [Xuhua Huang, Zirui Hu, Siyang Weng, Rong Zhang, Chengcheng Yang,Xuan Zhou, Weining Qian, Chuanhui Yang, and Quanqing Xu. 2025. AQuery-Aware Enormous Database Generator For System Performance Evaluation.In Companion of the 2025 International Conference on Managementof Data (SIGMOD-Companion ’25), June 22–27, 2025, Berlin, Germany. ACM,New York, NY, USA, 4 pages.](https://doi.org/10.1145/3722212.3725076)
